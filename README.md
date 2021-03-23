@@ -1,3 +1,3 @@
 # hello-world
-This is for practice
-I am making some changes for more practice.
+This is for practice.
+I am making a change again for more practice.
